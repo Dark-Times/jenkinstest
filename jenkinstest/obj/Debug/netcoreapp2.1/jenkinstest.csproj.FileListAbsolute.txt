@@ -1,0 +1,11 @@
+D:\Code\jenkinstest\jenkinstest\bin\Debug\netcoreapp2.1\jenkinstest.deps.json
+D:\Code\jenkinstest\jenkinstest\bin\Debug\netcoreapp2.1\jenkinstest.runtimeconfig.json
+D:\Code\jenkinstest\jenkinstest\bin\Debug\netcoreapp2.1\jenkinstest.runtimeconfig.dev.json
+D:\Code\jenkinstest\jenkinstest\bin\Debug\netcoreapp2.1\jenkinstest.dll
+D:\Code\jenkinstest\jenkinstest\bin\Debug\netcoreapp2.1\jenkinstest.pdb
+D:\Code\jenkinstest\jenkinstest\obj\Debug\netcoreapp2.1\jenkinstest.csprojAssemblyReference.cache
+D:\Code\jenkinstest\jenkinstest\obj\Debug\netcoreapp2.1\jenkinstest.csproj.CoreCompileInputs.cache
+D:\Code\jenkinstest\jenkinstest\obj\Debug\netcoreapp2.1\jenkinstest.AssemblyInfoInputs.cache
+D:\Code\jenkinstest\jenkinstest\obj\Debug\netcoreapp2.1\jenkinstest.AssemblyInfo.cs
+D:\Code\jenkinstest\jenkinstest\obj\Debug\netcoreapp2.1\jenkinstest.dll
+D:\Code\jenkinstest\jenkinstest\obj\Debug\netcoreapp2.1\jenkinstest.pdb
